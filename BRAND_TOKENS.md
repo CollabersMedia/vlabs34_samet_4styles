@@ -2,33 +2,33 @@
 
 ## Renkler
 
-- **Turuncu (VLABS34 Primary):** `#F04E23`
+- **Kirmazi (VLABS34 Primary):** `#BF1E2D`
 - **Siyah:** `#0E0E10`
 - **Beyaz:** `#FFFFFF`
 - **Aksan (Teknik Mavi / Koyu Lacivert):** `#16233C`
 
 ## Fontlar
 
-- **Başliklar:** Archivo (Variable, Weight 800–900, Uppercase büyük başliklarda)
-- **Göİİİvde:** Inter (400 / 500 / 600 / 700)
+- **Basliklar:** Archivo (Variable, Weight 800–900, Uppercase buyuk basliklarda)
+- **Govde:** Inter (400 / 500 / 600 / 700)
 - **Kod / Monospace:** JetBrains Mono veya benzeri
 
-## Logo Kullan im
+## Logo Kullanimi
 
-- Logo her zaman sol üst veya merkezde.
-- Minimum clear space: logo yüksekliğinin 1/2'si kadar dört yandan.
-- Arka plan: beyaz, siyah veya turuncu; pattern üzerine doğrudan koyma.
+- Logo her zaman sol ust veya merkezde.
+- Minimum clear space: logo yuksekliginin 1/2'si kadar dort yandan.
+- Arka plan: beyaz, siyah veya kirmazi; pattern uzerine dogrudan koyma.
 
-## Dil Kurallar i
+## Dil Kurallari
 
-- **Yatirimci / dış paydaş materyaller:** İngilizce
-- **Içİİ İletişim / ekip dokuman:** Türkçİİ
-- Ton: teknik olarak sağlam, iddial ama abart s z, veri destekli.
-- Başliklar: iddia cÜİmleleri (etiket değil).
-- Say lar: her kritik say i için kaynak (URL) zorunlu.
+- **Yatirimci / dis paydas materyaller:** Ingilizce
+- **Ic iletisim / ekip dokuman:** Turkce
+- Ton: teknik olarak saglam, iddiali ama abartisiz, veri destekli.
+- Basliklar: iddia cumleleri (etiket degil).
+- Sayilar: her kritik sayi icin kaynak (URL) zorunlu.
 
-## Görsel Dil
+## Gorsel Dil
 
-- Minimalist, geniş boşluk.
-- Turuncu: vurgu (rail, eyebrow, numerals) — asla büyük alan fill olarak değil.
-- Pattern: V emblem tessellation, masked; doğrudan metin arkas nda kullanma.
+- Minimalist, genis bosluk.
+- Kirmazi: vurgu (rail, eyebrow, numerals) — asla buyuk alan fill olarak degil.
+- Pattern: V emblem tessellation, masked; dogrudan metin arkasinda kullanma.
